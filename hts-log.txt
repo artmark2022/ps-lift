@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 27 Jul 2022 18:43:25 at https://globo-news.fun/redirecionar/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://globo-news.fun/redirecionar/ -O1 "D:\arthu\Desktop\PRESELLIFTDETOX\presellift" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:43:40	Error: 	"Not Found" (404) at link https://globo-news.fun/redirecionar/Trident/ (from https://globo-news.fun/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.6.8)
+18:43:40	Error: 	"Not Found" (404) at link https://globo-news.fun/redirecionar/b (from https://connect.facebook.net/en_US/fbevents.js)
+18:43:40	Error: 	"Not Found" (404) at link https://globo-news.fun/redirecionar/POST (from https://connect.facebook.net/en_US/fbevents.js)
+18:43:40	Error: 	"Not Found" (404) at link https://globo-news.fun/redirecionar/-negative.svg (from https://globo-news.fun/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.8)
+18:43:40	Error: 	"Not Found" (404) at link https://globo-news.fun/redirecionar/OPR/ (from https://globo-news.fun/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.8)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 49 links scanned, 43 files written (1083441 bytes overall) [332435 bytes received at 22162 bytes/sec], 1400931 bytes transferred using HTTP compression in 46 files, ratio 21%, 10.0 requests per connection
+(5 errors, 0 warnings, 0 messages)
